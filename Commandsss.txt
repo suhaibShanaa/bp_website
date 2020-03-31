@@ -1,0 +1,2105 @@
+Package operations: 94 installs, 0 updates, 0 removals
+  - Installing voku/portable-ascii (1.4.10): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.15.0): Loading from cache
+  - Installing phpoption/phpoption (1.7.3): Loading from cache
+  - Installing vlucas/phpdotenv (v4.1.3): Downloading (100%)
+  - Installing symfony/css-selector (v5.0.7): Downloading (100%)
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.15.0): Loading from cache
+  - Installing symfony/var-dumper (v5.0.7): Downloading (100%)
+  - Installing symfony/routing (v5.0.7): Downloading (100%)
+  - Installing symfony/process (v5.0.7): Downloading (100%)
+  - Installing symfony/polyfill-php72 (v1.15.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.15.0): Loading from cache
+  - Installing symfony/mime (v5.0.7): Downloading (100%)
+  - Installing psr/log (1.1.3): Loading from cache
+  - Installing symfony/polyfill-php73 (v1.15.0): Loading from cache
+  - Installing symfony/http-foundation (v5.0.7): Downloading (100%)
+  - Installing psr/event-dispatcher (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v2.0.1): Loading from cache
+  - Installing symfony/event-dispatcher (v5.0.7): Downloading (100%)
+  - Installing symfony/error-handler (v5.0.7): Downloading (100%)
+  - Installing symfony/http-kernel (v5.0.7): Downloading (100%)
+  - Installing symfony/finder (v5.0.7): Downloading (100%)
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/service-contracts (v2.0.1): Loading from cache
+  - Installing symfony/console (v5.0.7): Downloading (100%)
+  - Installing symfony/polyfill-iconv (v1.15.0): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.17): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/collection (1.0.1): Loading from cache
+  - Installing brick/math (0.8.14): Loading from cache
+  - Installing ramsey/uuid (4.0.1): Downloading (100%)
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing opis/closure (3.5.1): Loading from cache
+  - Installing symfony/translation-contracts (v2.0.1): Loading from cache
+  - Installing symfony/translation (v5.0.7): Downloading (100%)
+  - Installing nesbot/carbon (2.32.1): Loading from cache
+  - Installing monolog/monolog (2.0.2): Loading from cache
+  - Installing league/flysystem (1.0.66): Loading from cache
+  - Installing league/commonmark (1.3.2): Loading from cache
+  - Installing dragonmantank/cron-expression (v2.3.0): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing laravel/framework (v7.3.0): Loading from cache
+  - Installing fideloper/proxy (4.3.0): Loading from cache
+  - Installing asm89/stack-cors (1.3.0): Loading from cache
+  - Installing fruitcake/laravel-cors (v1.0.5): Loading from cache
+  - Installing ralouphie/getallheaders (3.0.3): Loading from cache
+  - Installing psr/http-message (1.0.1): Loading from cache
+  - Installing guzzlehttp/psr7 (1.6.1): Loading from cache
+  - Installing guzzlehttp/promises (v1.3.1): Loading from cache
+  - Installing guzzlehttp/guzzle (6.5.2): Loading from cache
+  - Installing jakub-onderka/php-console-color (v0.2): Loading from cache
+  - Installing jakub-onderka/php-console-highlighter (v0.4): Loading from cache
+  - Installing nikic/php-parser (v4.3.0): Loading from cache
+  - Installing dnoegel/php-xdg-base-dir (v0.1.1): Loading from cache
+  - Installing psy/psysh (v0.10.2): Loading from cache
+  - Installing laravel/tinker (v2.3.0): Loading from cache
+  - Installing scrivo/highlight.php (v9.18.1.1): Loading from cache
+  - Installing filp/whoops (2.7.1): Loading from cache
+  - Installing facade/ignition-contracts (1.0.0): Loading from cache
+  - Installing facade/flare-client-php (1.3.2): Loading from cache
+  - Installing facade/ignition (2.0.2): Loading from cache
+  - Installing fzaninotto/faker (v1.9.1): Loading from cache
+  - Installing hamcrest/hamcrest-php (v2.0.0): Loading from cache
+  - Installing mockery/mockery (1.3.1): Loading from cache
+  - Installing nunomaduro/collision (v4.1.3): Loading from cache
+  - Installing sebastian/version (2.0.1): Loading from cache
+  - Installing sebastian/type (1.1.3): Loading from cache
+  - Installing sebastian/resource-operations (2.0.1): Loading from cache
+  - Installing sebastian/recursion-context (3.0.0): Loading from cache
+  - Installing sebastian/object-reflector (1.1.1): Loading from cache
+  - Installing sebastian/object-enumerator (3.0.3): Loading from cache
+  - Installing sebastian/global-state (3.0.0): Loading from cache
+  - Installing sebastian/exporter (3.1.2): Loading from cache
+  - Installing sebastian/environment (4.2.3): Loading from cache
+  - Installing sebastian/diff (3.0.2): Loading from cache
+  - Installing sebastian/comparator (3.0.2): Loading from cache
+  - Installing phpunit/php-timer (2.1.2): Loading from cache
+  - Installing phpunit/php-text-template (1.2.1): Loading from cache
+  - Installing phpunit/php-file-iterator (2.0.2): Loading from cache
+  - Installing theseer/tokenizer (1.1.3): Loading from cache
+  - Installing sebastian/code-unit-reverse-lookup (1.0.1): Loading from cache
+  - Installing phpunit/php-token-stream (3.1.1): Loading from cache
+  - Installing phpunit/php-code-coverage (7.0.10): Loading from cache
+  - Installing doctrine/instantiator (1.3.0): Loading from cache
+  - Installing phpdocumentor/reflection-common (2.0.0): Loading from cache
+  - Installing phpdocumentor/type-resolver (1.1.0): Loading from cache
+  - Installing webmozart/assert (1.7.0): Loading from cache
+  - Installing phpdocumentor/reflection-docblock (5.1.0): Loading from cache
+  - Installing phpspec/prophecy (v1.10.3): Loading from cache
+  - Installing phar-io/version (2.0.1): Loading from cache
+  - Installing phar-io/manifest (1.0.3): Loading from cache
+  - Installing myclabs/deep-copy (1.9.5): Loading from cache
+  - Installing phpunit/phpunit (8.5.3): Downloading (100%)
+voku/portable-ascii suggests installing ext-intl (Use Intl for transliterator_transliterate() support)
+symfony/var-dumper suggests installing ext-intl (To show region name in time zone dump)
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+symfony/polyfill-intl-idn suggests installing ext-intl (For best performance)
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/service-contracts suggests installing symfony/service-implementation
+symfony/console suggests installing symfony/lock
+egulias/email-validator suggests installing ext-intl (PHP Internationalization Libraries are required to use the SpoofChecking validation)
+swiftmailer/swiftmailer suggests installing ext-intl (Needed to support internationalized email addresses)
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+ramsey/uuid suggests installing ext-gmp (Enables faster math with arbitrary-precision integers using GMP.)
+ramsey/uuid suggests installing ext-uuid (Enables the use of PeclUuidTimeGenerator and PeclUuidRandomGenerator.)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing elasticsearch/elasticsearch (Allow sending log messages to an Elasticsearch server via official client)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongodb (Allow sending log messages to a MongoDB server (via driver))
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server (via library))
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing ext-memcached (Required to use the memcache cache driver.)
+laravel/framework suggests installing ext-pcntl (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-posix (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-redis (Required to use the Redis cache and queue drivers (^4.0|^5.0).)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver, DynamoDb failed job storage and SES mail driver (^3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (^2.6).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (^1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use the Flysystem cache (^1.0).)
+laravel/framework suggests installing league/flysystem-sftp (Required to use the Flysystem SFTP driver (^1.0).)
+laravel/framework suggests installing moontoast/math (Required to use ordered UUIDs (^1.1).)
+laravel/framework suggests installing nyholm/psr7 (Required to use PSR-7 bridging features (^1.2).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (^4.0).)
+laravel/framework suggests installing pusher/pusher-php-server (Required to use the Pusher broadcast driver (^4.0).)
+laravel/framework suggests installing symfony/cache (Required to PSR-6 cache bridge (^5.0).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to use PSR-7 bridging features (^2.0).)
+laravel/framework suggests installing wildbit/swiftmailer-postmark (Required to use Postmark mail driver (^3.0).)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+guzzlehttp/guzzle suggests installing ext-intl (Required for Internationalized Domain Name (IDN) support)
+psy/psysh suggests installing ext-pcntl (Enabling the PCNTL extension makes PsySH a lot happier :))
+psy/psysh suggests installing ext-posix (If you have PCNTL, you'll want the POSIX extension as well.)
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+psy/psysh suggests installing hoa/console (A pure PHP readline implementation. You'll want this if your PHP install doesn't already support readline or libedit.)
+filp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)
+facade/ignition suggests installing laravel/telescope (^3.1)
+sebastian/global-state suggests installing ext-uopz (*)
+sebastian/environment suggests installing ext-posix (*)
+phpunit/php-code-coverage suggests installing ext-xdebug (^2.7.2)
+phpunit/phpunit suggests installing phpunit/php-invoker (^2.0.0)
+phpunit/phpunit suggests installing ext-soap (*)
+phpunit/phpunit suggests installing ext-xdebug (*)
+Writing lock file
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Package manifest generated successfully.
+> @php artisan key:generate --ansi
+Application key set successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/crud
+Using version ^4.0 for backpack/crud
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 10 installs, 0 updates, 0 removals
+  - Installing ocramius/package-versions (1.7.0): Loading from cache
+  - Installing intervention/image (2.5.1): Loading from cache
+  - Installing venturecraft/revisionable (1.34.0): Loading from cache
+  - Installing doctrine/event-manager (1.1.0): Loading from cache
+  - Installing doctrine/cache (1.10.0): Loading from cache
+  - Installing doctrine/dbal (v2.10.1): Loading from cache
+  - Installing laravel/helpers (v1.2.0): Loading from cache
+  - Installing creativeorange/gravatar (v1.0.14): Loading from cache
+  - Installing prologue/alerts (0.4.6): Loading from cache
+  - Installing backpack/crud (4.0.57): Downloading (100%)
+intervention/image suggests installing ext-imagick (to use Imagick based image processing.)
+intervention/image suggests installing intervention/imagecache (Caching extension for the Intervention Image library)
+doctrine/cache suggests installing alcaeus/mongo-php-adapter (Required to use legacy MongoDB driver)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install backpack/base 1.1.13
+    - Conclusion: don't install backpack/base 1.1.12
+    - Conclusion: don't install backpack/base 1.1.11
+    - Installation request for laravel/framework (locked at v7.3.0, required as ^7.0) -> satisfiable by laravel/framework[v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.10
+    - Installation request for laravel/framework ^7.0 -> satisfiable by laravel/framework[7.x-dev, v7.0.0, v7.0.1, v7.0.2, v7.0.3, v7.0.4, v7.0.5, v7.0.6, v7.0.7, v7.0.8, v
+7.1.0, v7.1.1, v7.1.2, v7.1.3, v7.2.0, v7.2.1, v7.2.2, v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.9
+    - backpack/base 1.1.1 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.2 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.3 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.4 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.5 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.6 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.7 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.8 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - Conclusion: don't install laravel/framework 5.8.x-dev
+    - Installation request for backpack/base ^1.1 -> satisfiable by backpack/base[1.1.1, 1.1.10, 1.1.11, 1.1.12, 1.1.13, 1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.
+1.9].
+
+
+Installation failed, reverting ./composer.json to its original content.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:install
+
+ Install barryvdh/laravel-elfinder to provide an admin interface for File Management? (yes/no) [no]:
+ > y
+
+  0/11 [>---------------------------]   0% Backpack installation started. Please wait...
+  1/11 [==>-------------------------]   9% Publishing configs, langs, views, js and css files
+  2/11 [=====>----------------------]  18% Publishing config for notifications - prologue/alerts
+  3/11 [=======>--------------------]  27% Generating users table (using Laravel's default migrations)
+  4/11 [==========>-----------------]  36% Creating App\Models\BackpackUser.php
+  5/11 [============>---------------]  45% Creating App\Http\Middleware\CheckIfAdmin.php
+  6/11 [===============>------------]  54% Installing barryvdh/laravel-elfinder
+  7/11 [=================>----------]  63% Creating uploads directory
+  8/11 [====================>-------]  72% Publishing elFinder assets
+  9/11 [======================>-----]  81% Publishing custom elfinder views
+ 10/11 [=========================>--]  90% Adding sidebar menu item for File Manager
+ 11/11 [============================] 100% Backpack installation finished.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:install
+
+ Install barryvdh/laravel-elfinder to provide an admin interface for File Management? (yes/no) [no]:
+ > y
+
+  0/11 [>---------------------------]   0% Backpack installation started. Please wait...
+  1/11 [==>-------------------------]   9% Publishing configs, langs, views, js and css files
+  2/11 [=====>----------------------]  18% Publishing config for notifications - prologue/alerts
+  3/11 [=======>--------------------]  27% Generating users table (using Laravel's default migrations)
+  4/11 [==========>-----------------]  36% Creating App\Models\BackpackUser.php
+  5/11 [============>---------------]  45% Creating App\Http\Middleware\CheckIfAdmin.php
+  6/11 [===============>------------]  54% Installing barryvdh/laravel-elfinder
+  7/11 [=================>----------]  63% Creating uploads directory
+ Publishing elFinder assets
+  8/11 [====================>-------]  72% Publishing custom elfinder views
+  9/11 [======================>-----]  81% Adding sidebar menu item for File Manager
+ 11/11 [============================] 100% Backpack installation finished.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.52 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.2 seconds)
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+Nothing to migrate.
+
+E:\xampp\htdocs\Laravel\bp_website>
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration:schema create_tags_table --model=0 --schema="name:string:unique"
+
+                                                                    
+  There are no commands defined in the "make:migration" namespace.  
+                                                                    
+  Did you mean this?                                                
+      make                                                          
+                                                                    
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration schema create_tags_table --model=0 --schema="name:string:unique"
+
+                                                            
+  Too many arguments, expected arguments "command" "name".  
+                                                            
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:schema create_tags_table --model=0 --schema="name:string:unique"
+
+                                         
+  Command "make:schema" is not defined.  
+                                         
+  Did you mean one of these?             
+      make:channel                       
+      make:command                       
+      make:component                     
+      make:controller                    
+      make:event                         
+      make:exception                     
+      make:factory                       
+      make:job                           
+      make:listener                      
+      make:mail                          
+      make:middleware                    
+      make:migration                     
+      make:model                         
+      make:notification                  
+      make:observer                      
+      make:policy                        
+      make:provider                      
+      make:request                       
+      make:resource                      
+      make:rule                          
+      make:seeder                        
+      make:test                          
+                                         
+
+
+E:\xampp\htdocs\Laravel\bp_website>
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:schema create_tags_table --model=0 --schema="name:string:unique"
+
+                                         
+  Command "make:schema" is not defined.  
+                                         
+  Did you mean one of these?             
+      make:channel                       
+      make:command                       
+      make:component                     
+      make:controller                    
+      make:event                         
+      make:exception                     
+      make:factory                       
+      make:job                           
+      make:listener                      
+      make:mail                          
+      make:middleware                    
+      make:migration                     
+      make:model                         
+      make:notification                  
+      make:observer                      
+      make:policy                        
+      make:provider                      
+      make:request                       
+      make:resource                      
+      make:rule                          
+      make:seeder                        
+      make:test                          
+                                         
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud tag
+
+                                           
+  Command "backpack:crud" is not defined.  
+                                           
+  Did you mean one of these?               
+      backpack:add-custom-route            
+      backpack:add-sidebar-content         
+      backpack:install                     
+      backpack:publish                     
+      backpack:publish-middleware          
+      backpack:publish-user-model          
+      backpack:user                        
+      backpack:version                     
+                                           
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:add-sidebar-content
+
+                                           
+  Not enough arguments (missing: "code").  
+                                           
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:add-custom-route "CRUD::resource('tag', 'TagCrudController');"
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:add-custom-route "CRUD::resource('tag', 'TagCrudController');"
+Successfully added code to routes/backpack/custom.php
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:add-sidebar-content "<li><a href='{{ backpack_url('tag') }}'><i class='fa fa-tag'></i> <span>Tags</span></a></l
+i>"
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:add-sidebar-content "<li><a href='{{ backpack_url('tag') }}'><i class='fa fa-tag'></i> <span>Tags</span></a></li>"
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:add-sidebar-content
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:schema create_admin_table --model=0
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+   BadMethodCallException 
+
+  Method Backpack\CRUD\app\Library\CrudPanel\CrudPanel::resource does not exist.
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Traits\Macroable.php:103
+     99|      */
+    100|     public function __call($method, $parameters)
+    101|     {
+    102|         if (! static::hasMacro($method)) {
+  > 103|             throw new BadMethodCallException(sprintf(
+    104|                 'Method %s::%s does not exist.', static::class, $method
+    105|             ));
+    106|         }
+    107| 
+
+  • Bad Method Call: Did you mean Backpack\CRUD\app\Library\CrudPanel\CrudPanel::restoreRevision() ?
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\Facades\Facade.php:261
+      Backpack\CRUD\app\Library\CrudPanel\CrudPanel::__call("resource")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\routes\backpack\custom.php:14
+      Illuminate\Support\Facades\Facade::__callStatic("resource")
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install backpack/base 1.1.13
+    - Conclusion: don't install backpack/base 1.1.12
+    - Conclusion: don't install backpack/base 1.1.11
+    - Installation request for laravel/framework (locked at v7.3.0, required as ^7.0) -> satisfiable by laravel/framework[v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.10
+    - Installation request for laravel/framework ^7.0 -> satisfiable by laravel/framework[7.x-dev, v7.0.0, v7.0.1, v7.0.2, v7.0.3, v7.0.4, v7.0.5, v7.0.6, v7.0.7, v7.0.8, v
+7.1.0, v7.1.1, v7.1.2, v7.1.3, v7.2.0, v7.2.1, v7.2.2, v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.9
+    - backpack/base 1.1.1 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.2 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.3 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.4 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.5 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.6 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.7 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.8 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - Conclusion: don't install laravel/framework 5.8.x-dev
+    - Installation request for backpack/base ^1.1 -> satisfiable by backpack/base[1.1.1, 1.1.10, 1.1.11, 1.1.12, 1.1.13, 1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.
+1.9].
+
+
+Installation failed, reverting ./composer.json to its original content.
+
+E:\xampp\htdocs\Laravel\bp_website>composer create-project --prefer-dist laravel/laravel pb_website
+Installing laravel/laravel (v7.3.0)
+  - Installing laravel/laravel (v7.3.0): Loading from cache
+Created project in pb_website
+> @php -r "file_exists('.env') || copy('.env.example', '.env');"
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 94 installs, 0 updates, 0 removals
+  - Installing voku/portable-ascii (1.4.10): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.15.0): Loading from cache
+  - Installing phpoption/phpoption (1.7.3): Loading from cache
+  - Installing vlucas/phpdotenv (v4.1.3): Loading from cache
+  - Installing symfony/css-selector (v5.0.7): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.15.0): Loading from cache
+  - Installing symfony/var-dumper (v5.0.7): Loading from cache
+  - Installing symfony/routing (v5.0.7): Loading from cache
+  - Installing symfony/process (v5.0.7): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.15.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.15.0): Loading from cache
+  - Installing symfony/mime (v5.0.7): Loading from cache
+  - Installing psr/log (1.1.3): Loading from cache
+  - Installing symfony/polyfill-php73 (v1.15.0): Loading from cache
+  - Installing symfony/http-foundation (v5.0.7): Loading from cache
+  - Installing psr/event-dispatcher (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v2.0.1): Loading from cache
+  - Installing symfony/event-dispatcher (v5.0.7): Loading from cache
+  - Installing symfony/error-handler (v5.0.7): Loading from cache
+  - Installing symfony/http-kernel (v5.0.7): Loading from cache
+  - Installing symfony/finder (v5.0.7): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/service-contracts (v2.0.1): Loading from cache
+  - Installing symfony/console (v5.0.7): Loading from cache
+  - Installing symfony/polyfill-iconv (v1.15.0): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.17): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/collection (1.0.1): Loading from cache
+  - Installing brick/math (0.8.14): Loading from cache
+  - Installing ramsey/uuid (4.0.1): Loading from cache
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing opis/closure (3.5.1): Loading from cache
+  - Installing symfony/translation-contracts (v2.0.1): Loading from cache
+  - Installing symfony/translation (v5.0.7): Loading from cache
+  - Installing nesbot/carbon (2.32.1): Loading from cache
+  - Installing monolog/monolog (2.0.2): Loading from cache
+  - Installing league/flysystem (1.0.66): Loading from cache
+  - Installing league/commonmark (1.3.2): Loading from cache
+  - Installing dragonmantank/cron-expression (v2.3.0): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing laravel/framework (v7.3.0): Loading from cache
+  - Installing fideloper/proxy (4.3.0): Loading from cache
+  - Installing asm89/stack-cors (1.3.0): Loading from cache
+  - Installing fruitcake/laravel-cors (v1.0.5): Loading from cache
+  - Installing ralouphie/getallheaders (3.0.3): Loading from cache
+  - Installing psr/http-message (1.0.1): Loading from cache
+  - Installing guzzlehttp/psr7 (1.6.1): Loading from cache
+  - Installing guzzlehttp/promises (v1.3.1): Loading from cache
+  - Installing guzzlehttp/guzzle (6.5.2): Loading from cache
+  - Installing jakub-onderka/php-console-color (v0.2): Loading from cache
+  - Installing jakub-onderka/php-console-highlighter (v0.4): Loading from cache
+  - Installing nikic/php-parser (v4.3.0): Loading from cache
+  - Installing dnoegel/php-xdg-base-dir (v0.1.1): Loading from cache
+  - Installing psy/psysh (v0.10.2): Loading from cache
+  - Installing laravel/tinker (v2.3.0): Loading from cache
+  - Installing scrivo/highlight.php (v9.18.1.1): Loading from cache
+  - Installing filp/whoops (2.7.1): Loading from cache
+  - Installing facade/ignition-contracts (1.0.0): Loading from cache
+  - Installing facade/flare-client-php (1.3.2): Loading from cache
+  - Installing facade/ignition (2.0.2): Loading from cache
+  - Installing fzaninotto/faker (v1.9.1): Loading from cache
+  - Installing hamcrest/hamcrest-php (v2.0.0): Loading from cache
+  - Installing mockery/mockery (1.3.1): Loading from cache
+  - Installing nunomaduro/collision (v4.1.3): Loading from cache
+  - Installing sebastian/version (2.0.1): Loading from cache
+  - Installing sebastian/type (1.1.3): Loading from cache
+  - Installing sebastian/resource-operations (2.0.1): Loading from cache
+  - Installing sebastian/recursion-context (3.0.0): Loading from cache
+  - Installing sebastian/object-reflector (1.1.1): Loading from cache
+  - Installing sebastian/object-enumerator (3.0.3): Loading from cache
+  - Installing sebastian/global-state (3.0.0): Loading from cache
+  - Installing sebastian/exporter (3.1.2): Loading from cache
+  - Installing sebastian/environment (4.2.3): Loading from cache
+  - Installing sebastian/diff (3.0.2): Loading from cache
+  - Installing sebastian/comparator (3.0.2): Loading from cache
+  - Installing phpunit/php-timer (2.1.2): Loading from cache
+  - Installing phpunit/php-text-template (1.2.1): Loading from cache
+  - Installing phpunit/php-file-iterator (2.0.2): Loading from cache
+  - Installing theseer/tokenizer (1.1.3): Loading from cache
+  - Installing sebastian/code-unit-reverse-lookup (1.0.1): Loading from cache
+  - Installing phpunit/php-token-stream (3.1.1): Loading from cache
+  - Installing phpunit/php-code-coverage (7.0.10): Loading from cache
+  - Installing doctrine/instantiator (1.3.0): Loading from cache
+  - Installing phpdocumentor/reflection-common (2.0.0): Loading from cache
+  - Installing phpdocumentor/type-resolver (1.1.0): Loading from cache
+  - Installing webmozart/assert (1.7.0): Loading from cache
+  - Installing phpdocumentor/reflection-docblock (5.1.0): Loading from cache
+  - Installing phpspec/prophecy (v1.10.3): Loading from cache
+  - Installing phar-io/version (2.0.1): Loading from cache
+  - Installing phar-io/manifest (1.0.3): Loading from cache
+  - Installing myclabs/deep-copy (1.9.5): Loading from cache
+  - Installing phpunit/phpunit (8.5.3): Loading from cache
+voku/portable-ascii suggests installing ext-intl (Use Intl for transliterator_transliterate() support)
+symfony/var-dumper suggests installing ext-intl (To show region name in time zone dump)
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+symfony/polyfill-intl-idn suggests installing ext-intl (For best performance)
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/service-contracts suggests installing symfony/service-implementation
+symfony/console suggests installing symfony/lock
+egulias/email-validator suggests installing ext-intl (PHP Internationalization Libraries are required to use the SpoofChecking validation)
+swiftmailer/swiftmailer suggests installing ext-intl (Needed to support internationalized email addresses)
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+ramsey/uuid suggests installing ext-gmp (Enables faster math with arbitrary-precision integers using GMP.)
+ramsey/uuid suggests installing ext-uuid (Enables the use of PeclUuidTimeGenerator and PeclUuidRandomGenerator.)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing elasticsearch/elasticsearch (Allow sending log messages to an Elasticsearch server via official client)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongodb (Allow sending log messages to a MongoDB server (via driver))
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server (via library))
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing ext-memcached (Required to use the memcache cache driver.)
+laravel/framework suggests installing ext-pcntl (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-posix (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-redis (Required to use the Redis cache and queue drivers (^4.0|^5.0).)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver, DynamoDb failed job storage and SES mail driver (^3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (^2.6).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (^1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use the Flysystem cache (^1.0).)
+laravel/framework suggests installing league/flysystem-sftp (Required to use the Flysystem SFTP driver (^1.0).)
+laravel/framework suggests installing moontoast/math (Required to use ordered UUIDs (^1.1).)
+laravel/framework suggests installing nyholm/psr7 (Required to use PSR-7 bridging features (^1.2).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (^4.0).)
+laravel/framework suggests installing pusher/pusher-php-server (Required to use the Pusher broadcast driver (^4.0).)
+laravel/framework suggests installing symfony/cache (Required to PSR-6 cache bridge (^5.0).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to use PSR-7 bridging features (^2.0).)
+laravel/framework suggests installing wildbit/swiftmailer-postmark (Required to use Postmark mail driver (^3.0).)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+guzzlehttp/guzzle suggests installing ext-intl (Required for Internationalized Domain Name (IDN) support)
+psy/psysh suggests installing ext-pcntl (Enabling the PCNTL extension makes PsySH a lot happier :))
+psy/psysh suggests installing ext-posix (If you have PCNTL, you'll want the POSIX extension as well.)
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+psy/psysh suggests installing hoa/console (A pure PHP readline implementation. You'll want this if your PHP install doesn't already support readline or libedit.)
+filp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)
+facade/ignition suggests installing laravel/telescope (^3.1)
+sebastian/global-state suggests installing ext-uopz (*)
+sebastian/environment suggests installing ext-posix (*)
+phpunit/php-code-coverage suggests installing ext-xdebug (^2.7.2)
+phpunit/phpunit suggests installing phpunit/php-invoker (^2.0.0)
+phpunit/phpunit suggests installing ext-soap (*)
+phpunit/phpunit suggests installing ext-xdebug (*)
+Writing lock file
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Package manifest generated successfully.
+> @php artisan key:generate --ansi
+Application key set successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been created
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 47 installs, 0 updates, 0 removals
+  - Installing composer/installers (v1.8.0): Downloading (100%)
+  - Installing symfony/polyfill-ctype (v1.15.0): Loading from cache
+  - Installing phpoption/phpoption (1.7.3): Loading from cache
+  - Installing vlucas/phpdotenv (v3.6.2): Downloading (100%)
+  - Installing symfony/css-selector (v5.0.7): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.15.0): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.15.0): Loading from cache
+  - Installing symfony/var-dumper (v4.4.7): Downloading (100%)
+  - Installing symfony/routing (v4.4.7): Downloading (100%)
+  - Installing symfony/process (v4.4.7): Downloading (100%)
+  - Installing psr/log (1.1.3): Loading from cache
+  - Installing symfony/polyfill-php73 (v1.15.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.15.0): Loading from cache
+  - Installing symfony/mime (v5.0.7): Loading from cache
+  - Installing symfony/http-foundation (v4.4.7): Downloading (100%)
+  - Installing symfony/event-dispatcher-contracts (v1.1.7): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher (v4.4.7): Downloading (100%)
+  - Installing symfony/debug (v4.4.7): Downloading (100%)
+  - Installing symfony/error-handler (v4.4.7): Downloading (100%)
+  - Installing symfony/http-kernel (v4.4.7): Downloading (100%)
+  - Installing symfony/finder (v4.4.7): Downloading (100%)
+  - Installing symfony/service-contracts (v2.0.1): Loading from cache
+  - Installing symfony/console (v4.4.7): Downloading (100%)
+  - Installing symfony/polyfill-iconv (v1.15.0): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.17): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing paragonie/random_compat (v9.99.99): Loading from cache
+  - Installing ramsey/uuid (3.9.3): Loading from cache
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing opis/closure (3.5.1): Loading from cache
+  - Installing symfony/translation-contracts (v2.0.1): Loading from cache
+  - Installing symfony/translation (v4.4.7): Downloading (100%)
+  - Installing nesbot/carbon (2.32.1): Loading from cache
+  - Installing monolog/monolog (2.0.2): Loading from cache
+  - Installing league/flysystem (1.0.66): Loading from cache
+  - Installing dragonmantank/cron-expression (v2.3.0): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing league/commonmark (1.3.2): Loading from cache
+  - Installing laravel/framework (v6.18.3): Downloading (100%)
+  - Installing laravel/helpers (v1.2.0): Loading from cache
+  - Installing creativeorange/gravatar (v1.0.14): Loading from cache
+  - Installing prologue/alerts (0.4.6): Loading from cache
+  - Installing almasaeed2010/adminlte (v2.4.3): Downloading (100%)
+  - Installing backpack/base (1.1.13): Downloading (100%)
+symfony/var-dumper suggests installing ext-intl (To show region name in time zone dump)
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+symfony/polyfill-intl-idn suggests installing ext-intl (For best performance)
+symfony/event-dispatcher-contracts suggests installing psr/event-dispatcher
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/service-contracts suggests installing symfony/service-implementation
+symfony/console suggests installing symfony/lock
+egulias/email-validator suggests installing ext-intl (PHP Internationalization Libraries are required to use the SpoofChecking validation)
+swiftmailer/swiftmailer suggests installing ext-intl (Needed to support internationalized email addresses)
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+paragonie/random_compat suggests installing ext-libsodium (Provides a modern crypto API that can be used to generate random bytes.)
+ramsey/uuid suggests installing ext-libsodium (Provides the PECL libsodium extension for use with the SodiumRandomGenerator)
+ramsey/uuid suggests installing ext-uuid (Provides the PECL UUID extension for use with the PeclUuidTimeGenerator and PeclUuidRandomGenerator)
+ramsey/uuid suggests installing moontoast/math (Provides support for converting UUID to 128-bit integer (in string form).)
+ramsey/uuid suggests installing ramsey/uuid-console (A console application for generating UUIDs with ramsey/uuid)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing elasticsearch/elasticsearch (Allow sending log messages to an Elasticsearch server via official client)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongodb (Allow sending log messages to a MongoDB server (via driver))
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server (via library))
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing ext-memcached (Required to use the memcache cache driver.)
+laravel/framework suggests installing ext-pcntl (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-posix (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-redis (Required to use the Redis cache and queue drivers (^4.0|^5.0).)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver, DynamoDb failed job storage and SES mail driver (^3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (^2.6).)
+laravel/framework suggests installing filp/whoops (Required for friendly error pages in development (^2.4).)
+laravel/framework suggests installing fzaninotto/faker (Required to use the eloquent factory builder (^1.9.1).)
+laravel/framework suggests installing guzzlehttp/guzzle (Required to use the Mailgun mail driver and the ping methods on schedules (^6.0|^7.0).)
+laravel/framework suggests installing laravel/tinker (Required to use the tinker console command (^2.0).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (^1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use the Flysystem cache (^1.0).)
+laravel/framework suggests installing league/flysystem-sftp (Required to use the Flysystem SFTP driver (^1.0).)
+laravel/framework suggests installing moontoast/math (Required to use ordered UUIDs (^1.1).)
+laravel/framework suggests installing nyholm/psr7 (Required to use PSR-7 bridging features (^1.2).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (^4.0).)
+laravel/framework suggests installing psr/http-message (Required to allow Storage::put to accept a StreamInterface (^1.0).)
+laravel/framework suggests installing pusher/pusher-php-server (Required to use the Pusher broadcast driver (^4.0).)
+laravel/framework suggests installing symfony/cache (Required to PSR-6 cache bridge (^4.3.4).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to use PSR-7 bridging features (^1.2).)
+laravel/framework suggests installing wildbit/swiftmailer-postmark (Required to use Postmark mail driver (^3.0).)
+Writing lock file
+Generating autoload files
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/crud
+Using version ^4.0 for backpack/crud
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 12 installs, 0 updates, 0 removals
+  - Installing ocramius/package-versions (1.7.0): Loading from cache
+  - Installing ralouphie/getallheaders (3.0.3): Loading from cache
+  - Installing psr/http-message (1.0.1): Loading from cache
+  - Installing guzzlehttp/psr7 (1.6.1): Loading from cache
+  - Installing guzzlehttp/promises (v1.3.1): Loading from cache
+  - Installing guzzlehttp/guzzle (6.5.2): Loading from cache
+  - Installing intervention/image (2.5.1): Loading from cache
+  - Installing venturecraft/revisionable (1.34.0): Loading from cache
+  - Installing doctrine/event-manager (1.1.0): Loading from cache
+  - Installing doctrine/cache (1.10.0): Loading from cache
+  - Installing doctrine/dbal (v2.10.1): Loading from cache
+  - Installing backpack/crud (4.0.58): Downloading (100%)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+guzzlehttp/guzzle suggests installing ext-intl (Required for Internationalized Domain Name (IDN) support)
+intervention/image suggests installing ext-imagick (to use Imagick based image processing.)
+intervention/image suggests installing intervention/imagecache (Caching extension for the Intervention Image library)
+doctrine/cache suggests installing alcaeus/mongo-php-adapter (Required to use legacy MongoDB driver)
+Writing lock file
+Generating autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration:schema create_admin_table --model=0
+Could not open input file: artisan
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+Could not open input file: artisan
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:schema create_admin_table --model=0
+
+                                         
+  Command "make:schema" is not defined.  
+                                         
+  Did you mean one of these?             
+      make:channel                       
+      make:command                       
+      make:component                     
+      make:controller                    
+      make:event                         
+      make:exception                     
+      make:factory                       
+      make:job                           
+      make:listener                      
+      make:mail                          
+      make:middleware                    
+      make:migration                     
+      make:model                         
+      make:notification                  
+      make:observer                      
+      make:policy                        
+      make:provider                      
+      make:request                       
+      make:resource                      
+      make:rule                          
+      make:seeder                        
+      make:test                          
+                                         
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration:schema create_admin_table --model=0
+
+                                                                    
+  There are no commands defined in the "make:migration" namespace.  
+                                                                    
+  Did you mean this?                                                
+      make                                                          
+                                                                    
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration create_admin_table --model=0
+
+                                        
+  The "--model" option does not exist.  
+                                        
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration create_admin_table
+Created Migration: 2020_03_31_131527_create_admin_table
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration create_students_table
+Created Migration: 2020_03_31_131558_create_students_table
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+Migrating: 2020_03_31_131527_create_admin_table
+Migrated:  2020_03_31_131527_create_admin_table (0.47 seconds)
+Migrating: 2020_03_31_131558_create_students_table
+Migrated:  2020_03_31_131558_create_students_table (0.29 seconds)
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+Migrating: 2020_03_31_131527_create_admin_table
+Migrated:  2020_03_31_131527_create_admin_table (0.44 seconds)
+Migrating: 2020_03_31_131558_create_students_table
+Migrated:  2020_03_31_131558_create_students_table (0.29 seconds)
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:curd admin
+
+                                                              
+  There are no commands defined in the "backpack" namespace.  
+                                                              
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install backpack/base 1.1.13
+    - Conclusion: don't install backpack/base 1.1.12
+    - Conclusion: don't install backpack/base 1.1.11
+    - Installation request for laravel/framework (locked at v7.3.0, required as ^7.0) -> satisfiable by laravel/framework[v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.10
+    - Installation request for laravel/framework ^7.0 -> satisfiable by laravel/framework[7.x-dev, v7.0.0, v7.0.1, v7.0.2, v7.0.3, v7.0.4, v7.0.5, v7.0.6, v7.0.7, v7.0.8, v
+7.1.0, v7.1.1, v7.1.2, v7.1.3, v7.2.0, v7.2.1, v7.2.2, v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.9
+    - backpack/base 1.1.1 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.2 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.3 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.4 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.5 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.6 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.7 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.8 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - Conclusion: don't install laravel/framework 5.8.x-dev
+    - Installation request for backpack/base ^1.1 -> satisfiable by backpack/base[1.1.1, 1.1.10, 1.1.11, 1.1.12, 1.1.13, 1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.
+1.9].
+
+
+Installation failed, reverting ./composer.json to its original content.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/crud
+Using version ^4.0 for backpack/crud
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 10 installs, 0 updates, 0 removals
+  - Installing ocramius/package-versions (1.7.0): Loading from cache
+  - Installing intervention/image (2.5.1): Loading from cache
+  - Installing venturecraft/revisionable (1.34.0): Loading from cache
+  - Installing doctrine/event-manager (1.1.0): Loading from cache
+  - Installing doctrine/cache (1.10.0): Loading from cache
+  - Installing doctrine/dbal (v2.10.1): Loading from cache
+    Skipped installation of bin bin/doctrine-dbal for package doctrine/dbal: name conflicts with an existing file
+  - Installing laravel/helpers (v1.2.0): Loading from cache
+  - Installing creativeorange/gravatar (v1.0.14): Loading from cache
+  - Installing prologue/alerts (0.4.6): Loading from cache
+  - Installing backpack/crud (4.0.58): Loading from cache
+intervention/image suggests installing ext-imagick (to use Imagick based image processing.)
+intervention/image suggests installing intervention/imagecache (Caching extension for the Intervention Image library)
+doctrine/cache suggests installing alcaeus/mongo-php-adapter (Required to use legacy MongoDB driver)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install backpack/base 1.1.13
+    - Conclusion: don't install backpack/base 1.1.12
+    - Conclusion: don't install backpack/base 1.1.11
+    - Installation request for laravel/framework (locked at v7.3.0, required as ^7.0) -> satisfiable by laravel/framework[v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.10
+    - Installation request for laravel/framework ^7.0 -> satisfiable by laravel/framework[7.x-dev, v7.0.0, v7.0.1, v7.0.2, v7.0.3, v7.0.4, v7.0.5, v7.0.6, v7.0.7, v7.0.8, v
+7.1.0, v7.1.1, v7.1.2, v7.1.3, v7.2.0, v7.2.1, v7.2.2, v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.9
+    - backpack/base 1.1.1 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.2 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.3 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.4 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.5 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.6 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.7 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.8 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - Conclusion: don't install laravel/framework 5.8.x-dev
+    - Installation request for backpack/base ^1.1 -> satisfiable by backpack/base[1.1.1, 1.1.10, 1.1.11, 1.1.12, 1.1.13, 1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.
+1.9].
+
+
+Installation failed, reverting ./composer.json to its original content.
+
+E:\xampp\htdocs\Laravel\bp_website>composer create-project --prefer-dist laravel/laravel
+Installing laravel/laravel (v7.3.0)
+  - Installing laravel/laravel (v7.3.0): Loading from cache
+Created project in E:\xampp\htdocs\Laravel\bp_website\laravel
+> @php -r "file_exists('.env') || copy('.env.example', '.env');"
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 94 installs, 0 updates, 0 removals
+  - Installing voku/portable-ascii (1.4.10): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.15.0): Loading from cache
+  - Installing phpoption/phpoption (1.7.3): Loading from cache
+  - Installing vlucas/phpdotenv (v4.1.3): Loading from cache
+  - Installing symfony/css-selector (v5.0.7): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.15.0): Loading from cache
+  - Installing symfony/var-dumper (v5.0.7): Loading from cache
+  - Installing symfony/routing (v5.0.7): Loading from cache
+  - Installing symfony/process (v5.0.7): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.15.0): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.15.0): Loading from cache
+  - Installing symfony/mime (v5.0.7): Loading from cache
+  - Installing psr/log (1.1.3): Loading from cache
+  - Installing symfony/polyfill-php73 (v1.15.0): Loading from cache
+  - Installing symfony/http-foundation (v5.0.7): Loading from cache
+  - Installing psr/event-dispatcher (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v2.0.1): Loading from cache
+  - Installing symfony/event-dispatcher (v5.0.7): Loading from cache
+  - Installing symfony/error-handler (v5.0.7): Loading from cache
+  - Installing symfony/http-kernel (v5.0.7): Loading from cache
+  - Installing symfony/finder (v5.0.7): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/service-contracts (v2.0.1): Loading from cache
+  - Installing symfony/console (v5.0.7): Loading from cache
+  - Installing symfony/polyfill-iconv (v1.15.0): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.17): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/collection (1.0.1): Loading from cache
+  - Installing brick/math (0.8.14): Loading from cache
+  - Installing ramsey/uuid (4.0.1): Loading from cache
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing opis/closure (3.5.1): Loading from cache
+  - Installing symfony/translation-contracts (v2.0.1): Loading from cache
+  - Installing symfony/translation (v5.0.7): Loading from cache
+  - Installing nesbot/carbon (2.32.1): Loading from cache
+  - Installing monolog/monolog (2.0.2): Loading from cache
+  - Installing league/flysystem (1.0.66): Loading from cache
+  - Installing league/commonmark (1.3.2): Loading from cache
+  - Installing dragonmantank/cron-expression (v2.3.0): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing laravel/framework (v7.3.0): Loading from cache
+  - Installing fideloper/proxy (4.3.0): Loading from cache
+  - Installing asm89/stack-cors (1.3.0): Loading from cache
+  - Installing fruitcake/laravel-cors (v1.0.5): Loading from cache
+  - Installing ralouphie/getallheaders (3.0.3): Loading from cache
+  - Installing psr/http-message (1.0.1): Loading from cache
+  - Installing guzzlehttp/psr7 (1.6.1): Loading from cache
+  - Installing guzzlehttp/promises (v1.3.1): Loading from cache
+  - Installing guzzlehttp/guzzle (6.5.2): Loading from cache
+  - Installing jakub-onderka/php-console-color (v0.2): Loading from cache
+  - Installing jakub-onderka/php-console-highlighter (v0.4): Loading from cache
+  - Installing nikic/php-parser (v4.3.0): Loading from cache
+  - Installing dnoegel/php-xdg-base-dir (v0.1.1): Loading from cache
+  - Installing psy/psysh (v0.10.2): Loading from cache
+  - Installing laravel/tinker (v2.3.0): Loading from cache
+  - Installing scrivo/highlight.php (v9.18.1.1): Loading from cache
+  - Installing filp/whoops (2.7.1): Loading from cache
+  - Installing facade/ignition-contracts (1.0.0): Loading from cache
+  - Installing facade/flare-client-php (1.3.2): Loading from cache
+  - Installing facade/ignition (2.0.2): Loading from cache
+  - Installing fzaninotto/faker (v1.9.1): Loading from cache
+  - Installing hamcrest/hamcrest-php (v2.0.0): Loading from cache
+  - Installing mockery/mockery (1.3.1): Loading from cache
+  - Installing nunomaduro/collision (v4.1.3): Loading from cache
+  - Installing sebastian/version (2.0.1): Loading from cache
+  - Installing sebastian/type (1.1.3): Loading from cache
+  - Installing sebastian/resource-operations (2.0.1): Loading from cache
+  - Installing sebastian/recursion-context (3.0.0): Loading from cache
+  - Installing sebastian/object-reflector (1.1.1): Loading from cache
+  - Installing sebastian/object-enumerator (3.0.3): Loading from cache
+  - Installing sebastian/global-state (3.0.0): Loading from cache
+  - Installing sebastian/exporter (3.1.2): Loading from cache
+  - Installing sebastian/environment (4.2.3): Loading from cache
+  - Installing sebastian/diff (3.0.2): Loading from cache
+  - Installing sebastian/comparator (3.0.2): Loading from cache
+  - Installing phpunit/php-timer (2.1.2): Loading from cache
+  - Installing phpunit/php-text-template (1.2.1): Loading from cache
+  - Installing phpunit/php-file-iterator (2.0.2): Loading from cache
+  - Installing theseer/tokenizer (1.1.3): Loading from cache
+  - Installing sebastian/code-unit-reverse-lookup (1.0.1): Loading from cache
+  - Installing phpunit/php-token-stream (3.1.1): Loading from cache
+  - Installing phpunit/php-code-coverage (7.0.10): Loading from cache
+  - Installing doctrine/instantiator (1.3.0): Loading from cache
+  - Installing phpdocumentor/reflection-common (2.0.0): Loading from cache
+  - Installing phpdocumentor/type-resolver (1.1.0): Loading from cache
+  - Installing webmozart/assert (1.7.0): Loading from cache
+  - Installing phpdocumentor/reflection-docblock (5.1.0): Loading from cache
+  - Installing phpspec/prophecy (v1.10.3): Loading from cache
+  - Installing phar-io/version (2.0.1): Loading from cache
+  - Installing phar-io/manifest (1.0.3): Loading from cache
+  - Installing myclabs/deep-copy (1.9.5): Loading from cache
+  - Installing phpunit/phpunit (8.5.3): Loading from cache
+voku/portable-ascii suggests installing ext-intl (Use Intl for transliterator_transliterate() support)
+symfony/var-dumper suggests installing ext-intl (To show region name in time zone dump)
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+symfony/polyfill-intl-idn suggests installing ext-intl (For best performance)
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/service-contracts suggests installing symfony/service-implementation
+symfony/console suggests installing symfony/lock
+egulias/email-validator suggests installing ext-intl (PHP Internationalization Libraries are required to use the SpoofChecking validation)
+swiftmailer/swiftmailer suggests installing ext-intl (Needed to support internationalized email addresses)
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+ramsey/uuid suggests installing ext-gmp (Enables faster math with arbitrary-precision integers using GMP.)
+ramsey/uuid suggests installing ext-uuid (Enables the use of PeclUuidTimeGenerator and PeclUuidRandomGenerator.)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing elasticsearch/elasticsearch (Allow sending log messages to an Elasticsearch server via official client)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongodb (Allow sending log messages to a MongoDB server (via driver))
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server (via library))
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing ext-memcached (Required to use the memcache cache driver.)
+laravel/framework suggests installing ext-pcntl (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-posix (Required to use all features of the queue worker.)
+laravel/framework suggests installing ext-redis (Required to use the Redis cache and queue drivers (^4.0|^5.0).)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver, DynamoDb failed job storage and SES mail driver (^3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (^2.6).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (^1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use the Flysystem cache (^1.0).)
+laravel/framework suggests installing league/flysystem-sftp (Required to use the Flysystem SFTP driver (^1.0).)
+laravel/framework suggests installing moontoast/math (Required to use ordered UUIDs (^1.1).)
+laravel/framework suggests installing nyholm/psr7 (Required to use PSR-7 bridging features (^1.2).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (^4.0).)
+laravel/framework suggests installing pusher/pusher-php-server (Required to use the Pusher broadcast driver (^4.0).)
+laravel/framework suggests installing symfony/cache (Required to PSR-6 cache bridge (^5.0).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to use PSR-7 bridging features (^2.0).)
+laravel/framework suggests installing wildbit/swiftmailer-postmark (Required to use Postmark mail driver (^3.0).)
+guzzlehttp/psr7 suggests installing zendframework/zend-httphandlerrunner (Emit PSR-7 responses)
+guzzlehttp/guzzle suggests installing ext-intl (Required for Internationalized Domain Name (IDN) support)
+psy/psysh suggests installing ext-pcntl (Enabling the PCNTL extension makes PsySH a lot happier :))
+psy/psysh suggests installing ext-posix (If you have PCNTL, you'll want the POSIX extension as well.)
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+psy/psysh suggests installing hoa/console (A pure PHP readline implementation. You'll want this if your PHP install doesn't already support readline or libedit.)
+filp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)
+facade/ignition suggests installing laravel/telescope (^3.1)
+sebastian/global-state suggests installing ext-uopz (*)
+sebastian/environment suggests installing ext-posix (*)
+phpunit/php-code-coverage suggests installing ext-xdebug (^2.7.2)
+phpunit/phpunit suggests installing phpunit/php-invoker (^2.0.0)
+phpunit/phpunit suggests installing ext-soap (*)
+phpunit/phpunit suggests installing ext-xdebug (*)
+Writing lock file
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Package manifest generated successfully.
+> @php artisan key:generate --ansi
+Application key set successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:install
+
+                                                              
+  There are no commands defined in the "backpack" namespace.  
+                                                              
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/crud
+Using version ^4.0 for backpack/crud
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 10 installs, 0 updates, 0 removals
+  - Installing ocramius/package-versions (1.7.0): Loading from cache
+  - Installing intervention/image (2.5.1): Loading from cache
+  - Installing venturecraft/revisionable (1.34.0): Loading from cache
+  - Installing doctrine/event-manager (1.1.0): Loading from cache
+  - Installing doctrine/cache (1.10.0): Loading from cache
+  - Installing doctrine/dbal (v2.10.1): Loading from cache
+  - Installing laravel/helpers (v1.2.0): Loading from cache
+  - Installing creativeorange/gravatar (v1.0.14): Loading from cache
+  - Installing prologue/alerts (0.4.6): Loading from cache
+  - Installing backpack/crud (4.0.58): Loading from cache
+intervention/image suggests installing ext-imagick (to use Imagick based image processing.)
+intervention/image suggests installing intervention/imagecache (Caching extension for the Intervention Image library)
+doctrine/cache suggests installing alcaeus/mongo-php-adapter (Required to use legacy MongoDB driver)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/base
+Using version ^1.1 for backpack/base
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install backpack/base 1.1.13
+    - Conclusion: don't install backpack/base 1.1.12
+    - Conclusion: don't install backpack/base 1.1.11
+    - Installation request for laravel/framework (locked at v7.3.0, required as ^7.0) -> satisfiable by laravel/framework[v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.10
+    - Installation request for laravel/framework ^7.0 -> satisfiable by laravel/framework[7.x-dev, v7.0.0, v7.0.1, v7.0.2, v7.0.3, v7.0.4, v7.0.5, v7.0.6, v7.0.7, v7.0.8, v
+7.1.0, v7.1.1, v7.1.2, v7.1.3, v7.2.0, v7.2.1, v7.2.2, v7.3.0].
+    - Conclusion: don't install backpack/base 1.1.9
+    - backpack/base 1.1.1 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.2 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.3 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.4 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.5 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.6 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.7 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - backpack/base 1.1.8 requires laravel/framework 5.8.* -> satisfiable by laravel/framework[5.8.x-dev].
+    - Conclusion: don't install laravel/framework 5.8.x-dev
+    - Installation request for backpack/base ^1.1 -> satisfiable by backpack/base[1.1.1, 1.1.10, 1.1.11, 1.1.12, 1.1.13, 1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.
+1.9].
+
+
+Installation failed, reverting ./composer.json to its original content.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration:schema create_admin_table --model=0
+
+                                                                    
+  There are no commands defined in the "make:migration" namespace.  
+                                                                    
+  Did you mean this?                                                
+      make                                                          
+                                                                    
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration create_admin_table
+Created Migration: 2020_03_31_133821_create_admin_table
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan make:migration create_customers_table
+Created Migration: 2020_03_31_133854_create_customers_table
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+Migrating: 2020_03_31_133821_create_admin_table
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'admin' already exists (SQL: create table `admin` (`id` bigint unsigned not null auto_increment primary key
+, `created_at` timestamp null, `updated_at` timestamp null) default character set utf8mb4 collate 'utf8mb4_unicode_ci')
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Connection.php:669
+    665|         // If an exception occurs when attempting to run a query, we'll format the error
+    666|         // message to include the bindings with SQL, which will make this exception a
+    667|         // lot more helpful to the developer instead of just the database's errors.
+    668|         catch (Exception $e) {
+  > 669|             throw new QueryException(
+    670|                 $query, $this->prepareBindings($bindings), $e
+    671|             );
+    672|         }
+    673| 
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php:123
+      Doctrine\DBAL\Driver\PDOException::("SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'admin' already exists")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php:121
+      PDOException::("SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'admin' already exists")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.53 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.27 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.35 seconds)
+Migrating: 2020_03_31_133854_create_customers_table
+Migrated:  2020_03_31_133854_create_customers_table (0.25 seconds)
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:install
+
+ Install barryvdh/laravel-elfinder to provide an admin interface for File Management? (yes/no) [no]:
+ > y
+
+  0/11 [>---------------------------]   0% Backpack installation started. Please wait...
+  1/11 [==>-------------------------]   9% Publishing configs, langs, views, js and css files
+  2/11 [=====>----------------------]  18% Publishing config for notifications - prologue/alerts
+  3/11 [=======>--------------------]  27% Generating users table (using Laravel's default migrations)
+  4/11 [==========>-----------------]  36% Creating App\Models\BackpackUser.php
+  5/11 [============>---------------]  45% Creating App\Http\Middleware\CheckIfAdmin.php
+  6/11 [===============>------------]  54% Installing barryvdh/laravel-elfinder
+  7/11 [=================>----------]  63% Creating uploads directory
+  8/11 [====================>-------]  72% Publishing elFinder assets
+  9/11 [======================>-----]  81% Publishing custom elfinder views
+ 10/11 [=========================>--]  90% Adding sidebar menu item for File Manager
+ 11/11 [============================] 100% Backpack installation finished.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:base:install
+
+                                                                   
+  There are no commands defined in the "backpack:base" namespace.  
+                                                                   
+  Did you mean this?                                               
+      backpack                                                     
+                                                                   
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud admin
+
+                                           
+  Command "backpack:crud" is not defined.  
+                                           
+  Did you mean one of these?               
+      backpack:add-custom-route            
+      backpack:add-sidebar-content         
+      backpack:install                     
+      backpack:publish                     
+      backpack:publish-middleware          
+      backpack:publish-user-model          
+      backpack:user                        
+      backpack:version                     
+                                           
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud students
+
+                                           
+  Command "backpack:crud" is not defined.  
+                                           
+  Did you mean one of these?               
+      backpack:add-custom-route            
+      backpack:add-sidebar-content         
+      backpack:install                     
+      backpack:publish                     
+      backpack:publish-middleware          
+      backpack:publish-user-model          
+      backpack:user                        
+      backpack:version                     
+                                           
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:publish
+
+                                              
+  Not enough arguments (missing: "subpath").  
+                                              
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan elfinder:publish
+Old published Assets have been removed
+Published assets to: barryvdh/elfinder
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/langfilemanager
+Using version ^2.0 for backpack/langfilemanager
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing backpack/langfilemanager (2.0.2): Downloading (100%)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: backpack/langfilemanager
+Discovered Package: barryvdh/laravel-elfinder
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate --path=vendor/backpack/langfilemanager/src/database/migration
+Nothing to migrate.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate --path=vendor/backpack/langfilemanager/src/database/migrations
+Migrating: 2015_09_07_190535_create_languages_table
+Migrated:  2015_09_07_190535_create_languages_table (0.44 seconds)
+Migrating: 2015_09_10_124414_alter_languages_table
+Migrated:  2015_09_10_124414_alter_languages_table (0.1 seconds)
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan db-seed --class="Backpack\LangFileManager\database\seeds\LanguageTableSeeder"
+
+ 
+Command "db-seed" is not defined.
+
+
+ Do you want to run "db:seed" instead?  (yes/no) [no]:
+ > y
+
+Language seeding successful.
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/crud:"4.1.x-dev as 4.0.99"
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 0 installs, 1 update, 0 removals
+  - Removing backpack/crud (4.0.58)
+  - Installing backpack/crud (4.1.x-dev 403379a): Cloning 403379a42e from cache
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: backpack/langfilemanager
+Discovered Package: barryvdh/laravel-elfinder
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require backpack/generators --dev
+Using version ^2.0 for backpack/generators
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing backpack/generators (v2.0.7): Downloading (100%)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: backpack/generators
+Discovered Package: backpack/langfilemanager
+Discovered Package: barryvdh/laravel-elfinder
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>composer require laracasts/generators --dev
+Using version ^1.1 for laracasts/generators
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing laracasts/generators (1.1.9): Downloading (100%)
+Writing lock file
+Generating optimized autoload files
+ocramius/package-versions: Generating version class...
+ocramius/package-versions: ...done generating version class
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+> @php artisan package:discover --ansi
+Discovered Package: backpack/crud
+Discovered Package: backpack/generators
+Discovered Package: backpack/langfilemanager
+Discovered Package: barryvdh/laravel-elfinder
+Discovered Package: creativeorange/gravatar
+Discovered Package: facade/ignition
+Discovered Package: fideloper/proxy
+Discovered Package: fruitcake/laravel-cors
+Discovered Package: intervention/image
+Discovered Package: laracasts/generators
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Discovered Package: nunomaduro/collision
+Discovered Package: prologue/alerts
+Discovered Package: venturecraft/revisionable
+Package manifest generated successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:install
+ 0/6 [>---------------------------]   0% Backpack installation started. Please wait...
+ 1/6 [====>-----------------------]  16% Publishing configs, langs, views, js and css files
+ 2/6 [=========>------------------]  33% Publishing config for notifications - prologue/alerts
+ 3/6 [==============>-------------]  50% Generating users table (using Laravel's default migrations)
+ 4/6 [==================>---------]  66% Creating App\Models\BackpackUser.php
+ 5/6 [=======================>----]  83% Creating App\Http\Middleware\CheckIfAdmin.php
+ 6/6 [============================] 100% Backpack installation finished.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud admin
+Controller created successfully.
+Model created successfully.
+Request created successfully.
+Successfully added code to routes/backpack/custom.php
+Successfully added code to sidebar_content file.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud student
+Controller created successfully.
+Model created successfully.
+Request created successfully.
+Successfully added code to routes/backpack/custom.php
+Successfully added code to sidebar_content file.
+
+E:\xampp\htdocs\Laravel\bp_website>
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan backpack:crud student
+Controller created successfully.
+Model created successfully.
+Request created successfully.
+Successfully added code to routes/backpack/custom.php
+Successfully added code to sidebar_content file.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan db:seed --class="Backpack\Lang
+FileManager\database\seeds\LanguageTableSeeder"
+Language seeding successful.
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan vendor:publish --provider="Bac
+kpack\LangFileManager\LangFileManagerServiceProvider" --tag="config" #publish
+ the config file
+
+                                                     
+  Too many arguments, expected arguments "command".  
+                                                     
+
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan vendor:publish --provider="Bac
+kpack\LangFileManager\LangFileManagerServiceProvider" --tag="config"
+Copied File [\vendor\backpack\langfilemanager\src\config\backpack\langfileman
+ager.php] To [\config\backpack\langfilemanager.php]
+Publishing complete.
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan vendor:publish --provider="Bac
+kpack\LangFileManager\LangFileManagerServiceProvider" --tag="lang"
+Copied Directory [\vendor\backpack\langfilemanager\src\resources\lang] To [\r
+esources\lang\vendor\backpack]
+Publishing complete.
+
+E:\xampp\htdocs\Laravel\bp_website>
+E:\xampp\htdocs\Laravel\bp_website>
+      E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.47 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.34 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.35 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.71 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.29 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.41 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.63 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.25 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.42 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.58 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.25 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.45 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.68 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.32 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.57 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.54 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.18 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.3 seconds)
+
+   Error 
+
+  Class 'CreateStudentsTable' not found
+
+  at E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:453
+    449|     public function resolve($file)
+    450|     {
+    451|         $class = Str::studly(implode('_', array_slice(explode('_', $file), 4)));
+    452| 
+  > 453|         return new $class;
+    454|     }
+    455| 
+    456|     /**
+    457|      * Get all of the migration files in a given path.
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:189
+      Illuminate\Database\Migrations\Migrator::resolve("2020_03_31_133854_create_students_table")
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Migrations\Migrator.php:165
+      Illuminate\Database\Migrations\Migrator::runUp("E:\xampp\htdocs\Laravel\bp_website\database\migrations/2020_03_31_133854_create_students_table.php")
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.65 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.18 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.26 seconds)
+Migrating: 2020_03_31_133854_create_students_table
+
+   Error 
+
+  Call to undefined function string()
+
+  at E:\xampp\htdocs\Laravel\bp_website\database\migrations\2020_03_31_133854_create_students_table.php:18
+    14|     public function up()
+    15|     {
+    16|         Schema::create('students', function (Blueprint $table) {
+    17|             $table->id();
+  > 18|             $table>string('name');
+    19|             $table->string('email');
+    20|             $table->string('phone');
+    21|             $table->timestamps();
+    22|         });
+
+  1   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Database\Schema\Builder.php:166
+      CreateStudentsTable::{closure}(Object(Illuminate\Database\Schema\Blueprint))
+
+  2   E:\xampp\htdocs\Laravel\bp_website\vendor\laravel\framework\src\Illuminate\Support\helpers.php:422
+      Illuminate\Database\Schema\Builder::Illuminate\Database\Schema\{closure}(Object(Illuminate\Database\Schema\Blueprint))
+
+E:\xampp\htdocs\Laravel\bp_website>php artisan migrate:fresh --seed
+Dropped all tables successfully.
+Migration table created successfully.
+Migrating: 2014_10_12_000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.71 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.52 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.39 seconds)
+Migrating: 2020_03_31_133854_create_students_table
+Migrated:  2020_03_31_133854_create_students_table (0.24 seconds)
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>
+000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.71 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.52 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.39 seconds)
+Migrating: 2020_03_31_133854_create_students_table
+Migrated:  2020_03_31_133854_create_students_table (0.24 seconds)
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>
+                    000000_create_users_table
+Migrated:  2014_10_12_000000_create_users_table (0.71 seconds)
+Migrating: 2019_08_19_000000_create_failed_jobs_table
+Migrated:  2019_08_19_000000_create_failed_jobs_table (0.52 seconds)
+Migrating: 2020_03_31_133821_create_admin_table
+Migrated:  2020_03_31_133821_create_admin_table (0.39 seconds)
+Migrating: 2020_03_31_133854_create_students_table
+Migrated:  2020_03_31_133854_create_students_table (0.24 seconds)
+Database seeding completed successfully.
+
+E:\xampp\htdocs\Laravel\bp_website>
+E:\xampp\htdocs\Laravel\bp_website>
+
+
+
+
+
+
+
+
+
+

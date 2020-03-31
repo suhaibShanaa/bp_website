@@ -1,0 +1,14 @@
+1- composer require backpack/crud:"4.1.x-dev as 4.0.99"
+2- composer require backpack/generators --dev
+3- php artisan backpack:install
+4- php artisan migration:fresh --seed
+5- php artisan make:migration create_students_table
+6- composer require backpack/generators --dev
+7- composer require backpack/base
+8- composer require backpack/crud
+9- php artisan backpack:crud student
+10- composer require backpack/langfilemanager
+11- Lang
+composer require backpack/langfilemanager
+php artisan migrate --path=vendor/backpack/langfilemanager/src/database/migrations
+php artisan db:seed --class="Backpack\LangFileManager\database\seeds\LanguageTableSeeder"
