@@ -8,7 +8,14 @@
 8- composer require backpack/crud
 9- php artisan backpack:crud student
 10- composer require backpack/langfilemanager
+
 11- Lang
 composer require backpack/langfilemanager
 php artisan migrate --path=vendor/backpack/langfilemanager/src/database/migrations
 php artisan db:seed --class="Backpack\LangFileManager\database\seeds\LanguageTableSeeder"
+
+12- Pagemanager
+composer require backpack/pagemanager
+php artisan vendor:publish --provider="Backpack\PageManager\PageManagerServiceProvider"
+php artisan migrate
+php artisan backpack:add-sidebar-content "<li class='nav-item'><a class='nav-link' href='{{ backpack_url('page') }}'><i class='nav-icon fa fa-file-o'></i> <span>Pages</span></a></li>"
