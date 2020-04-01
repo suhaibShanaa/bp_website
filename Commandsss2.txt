@@ -19,3 +19,11 @@ composer require backpack/pagemanager
 php artisan vendor:publish --provider="Backpack\PageManager\PageManagerServiceProvider"
 php artisan migrate
 php artisan backpack:add-sidebar-content "<li class='nav-item'><a class='nav-link' href='{{ backpack_url('page') }}'><i class='nav-icon fa fa-file-o'></i> <span>Pages</span></a></li>"
+
+13- permissions https://github.com/Laravel-Backpack/PermissionManager
+composer require backpack/permissionmanager
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="migrations"
+php artisan migrate
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider" --tag="config"
+// then First, add the Spatie\Permission\Traits\HasRoles trait to your User model(s)
+php artisan vendor:publish --provider="Backpack\PermissionManager\PermissionManagerServiceProvider"
